@@ -1,1 +1,4 @@
-This is a file in first branch.
+This is a file in first branch. 
+Second line in the file.
+Third line in the file.
+
